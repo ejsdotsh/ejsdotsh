@@ -7,7 +7,9 @@ with extensive experience building collaborative solutions to large-scale and
 service provider infrastructure performance, provisioning, monitoring,
 reliability, and deployment problems.
 
-i am currently seeking a Staff+ engineering role. please see my [linkedin](https://linkedin.com/in/ejsdotsh) and/or my [cv](./cv/ejs.pdf) for specifics.
+i am currently seeking a Staff/Senior Staff/Principal role leading the research, development, and innovative application of modern technology to build collaborative, software-defined solutions to large-scale network/infrastructure challenges.
+
+please see my [linkedin](https://linkedin.com/in/ejsdotsh) and/or my [cv](./cv/ejs.pdf) for specifics.
 
 ----
 
