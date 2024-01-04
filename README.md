@@ -13,9 +13,8 @@ software-defined solutions to large-scale network/infrastructure challenges.
 
 please see my [linkedin](https://linkedin.com/in/ejsdotsh) and/or my [cv](./cv/ejs.pdf) for specifics.
 
-----
+---
 
 outside of work, i ride bikes (road, cyclocross), rollerskate, take pictures,
 read, make and consume copius amounts of coffee and gelato, play with tech, and
-am constantly teaching myself/learning something new, which is currently [computer science](https://github.com/ejsdotsh/cs-autodidact) and [12 programming languages in 2023](https://github.com/ejsdotsh/12in23).
-
+am constantly teaching myself/learning something new, which is currently [computer science](https://github.com/ejsdotsh/cs-autodidact).
