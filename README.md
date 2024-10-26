@@ -1,20 +1,21 @@
 ### hello, i'm e.j.
 
-#### my pronouns are they/them.
+#### my pronouns are they/them/theirs.
 
-i'm a network engineer and architect, systems builder, and autodidactic polymath
-with extensive experience building collaborative solutions to large-scale and
-service provider infrastructure performance, provisioning, monitoring,
-reliability, and deployment problems.
+i'm transgender, nonbinary, queer, bereaved, a former Marine, a systems thinker,
+and an autodidactic polymath.
 
-i am currently seeking a Staff/Senior Staff/Principal role leading the research,
-development, and innovative application of modern technology to build collaborative,
-software-defined solutions to large-scale network/infrastructure challenges.
+#### professional
 
-please see my [linkedin](https://linkedin.com/in/ejsdotsh) and/or my [cv](./cv/ejs.pdf) for specifics.
+i have extensive network architecture and engineering experience designing,
+building, and operating collaborative solutions to large-scale and service
+provider infrastructure performance, provisioning, monitoring, reliability, and
+deployment problems. please see my [linkedin](https://linkedin.com/in/ejsdotsh)
+and/or my [cv](./cv/ejs.pdf) for specifics.
 
----
+#### personal
 
-outside of work, i ride bikes (road, cyclocross), rollerskate, take pictures,
-read, make and consume copius amounts of coffee and gelato, play with tech, and
-am constantly teaching myself/learning something new, which is currently [computer science](https://github.com/ejsdotsh/cs-autodidact).
+i ride bikes (road, cyclocross), rollerskate (mostly i fall down), dabble in
+photography, read (sci-fi, fantasy, philosophy, economics, history), make and
+consume copious amounts of coffee and gelato, play with tech, and am constantly
+teaching myself/learning something new, which is currently [computer science](https://github.com/ejsdotsh/cs-autodidact).
