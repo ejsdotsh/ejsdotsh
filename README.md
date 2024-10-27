@@ -2,8 +2,11 @@
 
 #### my pronouns are they/them/theirs.
 
-i'm transgender, nonbinary, queer, bereaved, a former Marine, a systems thinker,
+i'm transgender, nonbinary, queer, bereaved, a systems thinker,
 and an autodidactic polymath.
+
+these repositories will be a place for me to (irregularly) collect and share my
+learning and play...
 
 #### professional
 
@@ -16,6 +19,6 @@ and/or my [cv](./cv/ejs.pdf) for specifics.
 #### personal
 
 i ride bikes (road, cyclocross), rollerskate (mostly i fall down), dabble in
-photography, read (sci-fi, fantasy, philosophy, economics, history), make and
+digital photography, read (sci-fi, fantasy, philosophy, economics, history), make and
 consume copious amounts of coffee and gelato, play with tech, and am constantly
 teaching myself/learning something new, which is currently [computer science](https://github.com/ejsdotsh/cs-autodidact).
